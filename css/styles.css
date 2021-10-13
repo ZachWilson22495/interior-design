@@ -1,0 +1,20 @@
+.column {
+  width: 625px;
+  float: left;
+}
+
+.Title {
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-style: oblique;
+}
+
+.Time {
+  text-align: center;
+  font-weight: 700;
+  font-size: xx-large;
+}
+
+body {
+  background-color: #77ad77;
+}
